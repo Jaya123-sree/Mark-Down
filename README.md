@@ -53,10 +53,10 @@ Github(https://github.com/)
 
 ~~StrikedText~~
 
--[x] checkbox  
--[] one   
-  -[] one - a  
-  -[] one - b  
+- [x] checkbox  
+- [ ] one   
+  - [ ] one - a  
+  - [ ] one - b  
  
 
 **code** 
